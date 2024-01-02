@@ -3,7 +3,9 @@
 ![The Container Security Checklist](./container-security-checklist-v1.png "Container Security Checklist")
 
 
+
 This container security checklist has been created as a way to help development teams implement security when deploying containerised applications.
+
 
 
 The checklist is categorised into three sections, Image Based Security, Host based Security and Runtime Environment Security. It is split into: 
