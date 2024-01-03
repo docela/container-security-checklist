@@ -4,7 +4,7 @@
 
 
 
-This container security checklist has been created as a way to help development teams implement security when deploying containerised applications.
+This container security checklist has been created to help development teams implement security when deploying containerised applications.
 
 
 
